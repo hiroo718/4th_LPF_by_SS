@@ -1,6 +1,8 @@
 # 4th_LPF_by_SS
 # 4th-order LPF via State-Space with Welch PSD estimation
 # 状態空間法による4次ローパスフィルタ設計とWelch法によるパワースペクトル推定
+## Simulation Result / シミュレーション結果
+![Step Response](step_response.png)
 
 ## Overview / 概要
 This program implements a 4th-order Low-Pass Filter (LPF) using State-Space representation,
